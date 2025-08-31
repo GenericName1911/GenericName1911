@@ -1,4 +1,4 @@
-# About Me:
+## About Me:
 Hello! Generic here. I'm a bug hunter, modder, and dataminer for Supercell games and absolutely love to push the games to their limits.<br>I document glitches & exploits and occasionally post leaks on my socials.<br>Oh, and I also develop tools for modding, datamining and automation on Github.
 
 
